@@ -21,12 +21,7 @@ Have a day full of JOY today.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmo0923&count_bg=%23F5A3F0&title_bg=%23965DD7&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
  
-<!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:jjuhee0913@gmail.com) -->
- 
-<!-- [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/chajuhui123) -->
- 
-  
-﹏﹏﹏﹏﹏﹏﹏
+﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
 <br/><br/>
  
@@ -37,7 +32,8 @@ Have a day full of JOY today.
 
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+
 <br>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
