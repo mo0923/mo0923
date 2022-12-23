@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <div align = "center">
 
 <br/>
-<h3>Joyful Joy 🥳</h3><br/>
-Hello, I'm Juhee (Joy).<br/>
+<h3>MO HYEON JIN 🥳</h3><br/>
+안녕하세요 모현진입니다..<br/>
 My goal is to give good influence to society.<br/>
 Have a day full of JOY today.
 
