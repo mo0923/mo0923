@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br/>
 <h3>MO HYEON JIN 🥳</h3><br/>
-안녕하세요 모현진입니다..<br/>
+안녕하세요 모현진 포트폴리오 입니다.<br/>
 My goal is to give good influence to society.<br/>
 Have a day full of JOY today.
 
